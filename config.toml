@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "LearningBlog DevOps"
+theme = "ga-hugo-theme"
