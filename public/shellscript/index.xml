@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shellscripts on LearningBlog DevOps</title>
+    <link>http://example.org/shellscript/</link>
+    <description>Recent content in Shellscripts on LearningBlog DevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jul 2020 12:26:14 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/shellscript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1</title>
+      <link>http://example.org/shellscript/1/</link>
+      <pubDate>Sat, 04 Jul 2020 12:26:14 +0100</pubDate>
+      
+      <guid>http://example.org/shellscript/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
