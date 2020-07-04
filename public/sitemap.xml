@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/kubernetes/1/</loc>
+    <loc>https://bamishr.github.io/LearningBlog/kubernetes/1/</loc>
     <lastmod>2020-07-04T12:25:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/kubernetes/</loc>
+    <loc>https://bamishr.github.io/LearningBlog/kubernetes/</loc>
     <lastmod>2020-07-04T12:25:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://bamishr.github.io/LearningBlog/</loc>
     <lastmod>2020-07-04T12:25:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/a/</loc>
+    <loc>https://bamishr.github.io/LearningBlog/a/</loc>
     <lastmod>2020-07-04T12:23:49+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://bamishr.github.io/LearningBlog/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://bamishr.github.io/LearningBlog/tags/</loc>
   </url>
   
 </urlset>

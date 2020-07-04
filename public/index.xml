@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LearningBlog DevOps</title>
-    <link>http://example.org/</link>
+    <link>https://bamishr.github.io/LearningBlog/</link>
     <description>Recent content on LearningBlog DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jul 2020 12:25:55 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bamishr.github.io/LearningBlog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1</title>
-      <link>http://example.org/kubernetes/1/</link>
+      <link>https://bamishr.github.io/LearningBlog/kubernetes/1/</link>
       <pubDate>Sat, 04 Jul 2020 12:25:55 +0100</pubDate>
       
-      <guid>http://example.org/kubernetes/1/</guid>
+      <guid>https://bamishr.github.io/LearningBlog/kubernetes/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A</title>
-      <link>http://example.org/a/</link>
+      <link>https://bamishr.github.io/LearningBlog/a/</link>
       <pubDate>Sat, 04 Jul 2020 12:23:49 +0100</pubDate>
       
-      <guid>http://example.org/a/</guid>
+      <guid>https://bamishr.github.io/LearningBlog/a/</guid>
       <description>This is testing purpose</description>
     </item>
     

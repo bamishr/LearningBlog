@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on LearningBlog DevOps</title>
-    <link>http://example.org/categories/</link>
+    <link>https://bamishr.github.io/LearningBlog/categories/</link>
     <description>Recent content in Categories on LearningBlog DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bamishr.github.io/LearningBlog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
